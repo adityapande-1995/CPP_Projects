@@ -11,6 +11,8 @@ make all && make run
 
 ## To do:
 - [x] Mouse zoom
+- [ ] View Axes
 - [ ] Mouse pan 
+- [ ] Grid view
 - [ ] Camera info on screen
 - [ ] Lighting and material 
