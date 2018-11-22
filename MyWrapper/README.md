@@ -1,4 +1,4 @@
-# An wrapper over OpenGL API
+# A wrapper over OpenGL API
 
 ## Introduction
 This is an attempt to write my own wrapper/boilerplate over OpenGL to make it usable. 
