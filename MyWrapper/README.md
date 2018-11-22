@@ -15,12 +15,14 @@ Camera controls:
 * Up, Down arrow: Move in +y and -y direction respectively.
 * "n", "m" : Move in +z and -z direction respectively.
 * Space bar : Restore original camera position.
+* Mouse scroll : Zoom in and out (Perspective transform)
 
 
 ## To do:
 - [x] Mouse zoom
-- [ ] View Axes
-- [ ] Mouse pan 
-- [ ] Grid view
+- [x] View Axes
+- [x] Mouse pan 
+- [x] Grid view
 - [ ] Camera info on screen
 - [ ] Lighting and material 
+- [ ] Primitives
