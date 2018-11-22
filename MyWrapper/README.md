@@ -9,6 +9,14 @@ File "m.cpp" contains the code. "main.cpp" contains an example. To compile and r
 make all && make run
 ```
 
+## Navigation
+Camera controls:
+* Right, Left arrow : Move in +x and -x direction respectively.
+* Up, Down arrow: Move in +y and -y direction respectively.
+* "n", "m" : Move in +z and -z direction respectively.
+* Space bar : Restore original camera position.
+
+
 ## To do:
 - [x] Mouse zoom
 - [ ] View Axes
