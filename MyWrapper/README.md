@@ -17,12 +17,14 @@ Camera controls:
 * Space bar : Restore original camera position.
 * Mouse scroll : Zoom in and out (Perspective transform)
 
+## Issues
+* Co-ordinate axes not visible when lighting is enabled.
 
-## To do:
+## To implement:
 - [x] Mouse zoom
 - [x] View Axes
 - [x] Mouse pan 
 - [x] Grid view
 - [ ] Camera info on screen
-- [ ] Lighting and material 
+- [x] Lighting and material 
 - [ ] Primitives
