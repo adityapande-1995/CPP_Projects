@@ -7,5 +7,5 @@ A collection of my C++ projects. Check individual folders for more details.
 
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/bounce/bounce.gif)
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/Asteroids/ast.gif)
-![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif0.gif)
+![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif1.gif)
 
