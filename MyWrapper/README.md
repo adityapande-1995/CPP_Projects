@@ -17,6 +17,11 @@ Camera controls:
 * Space bar : Restore original camera position.
 * Mouse scroll : Zoom in and out (Perspective transform)
 
+## Gallery
+![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif0.gif)
+![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif1.gif)
+![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/bounce.gif)
+
 ## Issues
 * Co-ordinate axes not visible when lighting is enabled.
 
