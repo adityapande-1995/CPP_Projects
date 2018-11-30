@@ -4,7 +4,7 @@
 Inspired by Processing/p5.js, this is an attempt to write my own wrapper/boilerplate over OpenGL to make it usable. 
 
 ## How to use
-File "m.cpp" contains the code. "main.cpp" contains an example. To compile and run, execute
+File "m.cpp" contains the code. Navigate ot the "examples" folder. In each example, "main.cpp" contains an example. To compile and run, execute
 ```
 make all && make run
 ```
