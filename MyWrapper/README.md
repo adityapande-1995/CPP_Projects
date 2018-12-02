@@ -20,7 +20,7 @@ Camera controls:
 ## Gallery
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif0.gif)
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif1.gif)
-![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/bounce.gif)
+![](https://github.com/adityapande-1995/CPP_Projects/blob/master/MyWrapper/resources/gif3.gif)
 
 ## Issues
 * Co-ordinate axes not visible when lighting is enabled.
