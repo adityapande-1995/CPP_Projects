@@ -5,6 +5,7 @@ A collection of my C++ projects. Check individual folders for more details.
 3. "NeuralNetworks" : Neural networks using Eigen algebra library.
 4. "MyWrapper" : A wrapper/3D engine based on OpenGL.
 5. "PathPlanning" : Dijksta's algo
+6. "quadtree_viz", "Oct" : Visualize quadtrees and octrees
 
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/bounce/bounce.gif)
 ![](https://github.com/adityapande-1995/CPP_Projects/blob/master/Asteroids/ast.gif)
